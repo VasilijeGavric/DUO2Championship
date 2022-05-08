@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DUO2ChampionshipWebApi", "DUO2ChampionshipWebApi\DUO2ChampionshipWebApi.csproj", "{8CCAEA46-36CF-490E-AEDA-76ED8723A207}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CCAEA46-36CF-490E-AEDA-76ED8723A207}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CCAEA46-36CF-490E-AEDA-76ED8723A207}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CCAEA46-36CF-490E-AEDA-76ED8723A207}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CCAEA46-36CF-490E-AEDA-76ED8723A207}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B73106F-4B3D-4BFE-806D-8EF009E300EA}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/DUO2ChampionshipWebApi/DesignTimeBuild
+/.vs/DUO2ChampionshipWebApi/v17
+/DUO2ChampionshipWebApi/bin/Release/net5.0
+/DUO2ChampionshipWebApi/obj/Release/net5.0
+/DUO2ChampionshipWebApi/Properties/PublishProfiles
+/DUO2ChampionshipWebApi/DUO2ChampionshipWebApi.csproj.user
